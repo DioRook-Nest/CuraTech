@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">16678007580-hrg7hmoro5190mqmea26d21b7d6faqbg.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://curatech-e38f5.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">16678007580</string>
+    <string name="google_api_key" translatable="false">AIzaSyC0eC6V-T8vNqPNFBA3G4YhR11zgdTh4I0</string>
+    <string name="google_app_id" translatable="false">1:16678007580:android:750def0af2b778d5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC0eC6V-T8vNqPNFBA3G4YhR11zgdTh4I0</string>
+    <string name="google_storage_bucket" translatable="false">curatech-e38f5.appspot.com</string>
+    <string name="project_id" translatable="false">curatech-e38f5</string>
+</resources>

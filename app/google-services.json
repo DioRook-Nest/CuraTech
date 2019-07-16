@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "16678007580",
+    "firebase_url": "https://curatech-e38f5.firebaseio.com",
+    "project_id": "curatech-e38f5",
+    "storage_bucket": "curatech-e38f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16678007580:android:750def0af2b778d5",
+        "android_client_info": {
+          "package_name": "cura.curatech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16678007580-otivogjmls5rl3ib2g5950mlps20smlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cura.curatech",
+            "certificate_hash": "50e482bc51a364904117a226d0968214bbd5895e"
+          }
+        },
+        {
+          "client_id": "16678007580-hrg7hmoro5190mqmea26d21b7d6faqbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0eC6V-T8vNqPNFBA3G4YhR11zgdTh4I0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16678007580-hrg7hmoro5190mqmea26d21b7d6faqbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<group android:checkableBehavior="single">-->
+    <item
+        android:id="@+id/nav_blog"
+        android:title="Blog" />
+    <item
+        android:id="@+id/nav_chat"
+        android:title="Chat" />
+        <item
+            android:id="@+id/nav_pres"
+            android:title="Prescriptions" />
+        <item
+            android:id="@+id/nav_ehr"
+
+            android:title="EHR" />
+    <!--</group>-->
+    <item
+        android:id="@+id/action_logout_btn"
+        android:title="@string/action_logout_text" />
+</menu>
