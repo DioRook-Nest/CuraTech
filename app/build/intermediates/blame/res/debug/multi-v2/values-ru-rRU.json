@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\horse\\AndroidStudioProjects\\CuraTech-Mobile-App-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru-rRU\\values-ru-rRU.xml",
+            "outputFile": "C:\\Users\\Stevert Lobo\\AndroidStudioProjects\\CuraTech\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru-rRU\\values-ru-rRU.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\horse\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.6.0.aar\\2050a080abf0f8a9421523af3596951e\\res\\values-ru-rRU\\values-ru-rRU.xml",
+                    "source": "C:\\Users\\Stevert Lobo\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.6.0.aar\\946a633c7fa4bb24187e852815e66b16\\res\\values-ru-rRU\\values-ru-rRU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

@@ -1,4 +1,4 @@
-#Wed Jan 23 20:57:13 IST 2019
-base.0=C\:\\Users\\horse\\AndroidStudioProjects\\CuraTech-Mobile-App-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\61
+#Fri Jan 17 00:10:31 IST 2020
+base.0=C\:\\Users\\Stevert Lobo\\AndroidStudioProjects\\CuraTech\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
 path.0=classes.dex
 renamed.0=classes.dex

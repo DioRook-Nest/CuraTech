@@ -1,4 +1,4 @@
-#Wed Jan 23 20:57:13 IST 2019
+#Fri Jan 17 00:11:21 IST 2020
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -7,12 +7,12 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=C\:\\Users\\horse\\AndroidStudioProjects\\CuraTech-Mobile-App-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\64
-base.4=C\:\\Users\\horse\\AndroidStudioProjects\\CuraTech-Mobile-App-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\67
-base.3=C\:\\Users\\horse\\AndroidStudioProjects\\CuraTech-Mobile-App-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\66
-base.2=C\:\\Users\\horse\\AndroidStudioProjects\\CuraTech-Mobile-App-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\68
-base.1=C\:\\Users\\horse\\AndroidStudioProjects\\CuraTech-Mobile-App-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\63
-base.0=C\:\\Users\\horse\\AndroidStudioProjects\\CuraTech-Mobile-App-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\65
+base.5=C\:\\Users\\Stevert Lobo\\AndroidStudioProjects\\CuraTech\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+base.4=C\:\\Users\\Stevert Lobo\\AndroidStudioProjects\\CuraTech\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+base.3=C\:\\Users\\Stevert Lobo\\AndroidStudioProjects\\CuraTech\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+base.2=C\:\\Users\\Stevert Lobo\\AndroidStudioProjects\\CuraTech\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+base.1=C\:\\Users\\Stevert Lobo\\AndroidStudioProjects\\CuraTech\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+base.0=C\:\\Users\\Stevert Lobo\\AndroidStudioProjects\\CuraTech\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
 path.5=classes.dex
 path.4=classes.dex
 path.3=classes.dex
